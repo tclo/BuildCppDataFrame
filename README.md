@@ -7,10 +7,16 @@ Build C++ DataFrame
     4. make 
     5. make install 
 
-# build exampe 
+# Build exampe: 
     1. cd examples
     2. mkdir build
     3. cd build
     4. cmake -G"MinGW Makefiles" -D CMAKE_BUILD_TYPE="Debug" ..   
     5. make 
     6. .\hello_world.exe
+
+# Git command:
+    1. git config --global user.email "tclo@livemail.tw"
+    2. git commit -m <title> -m <description>
+       git commit -m ‘Try’
+    3. git push
