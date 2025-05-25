@@ -17,8 +17,9 @@ Build C++ DataFrame
 
 # Git command:
     1. git config --global user.email "tclo@livemail.tw"
-    2. git status
-    3. git add .
-    4. git commit -m <title> -m <description>
+    2. git config --global user.name T.C.Luo
+    3. git status
+    4. git add .
+    5. git commit -m <title> -m <description>
        git commit -m ‘Try’
-    5. git push
+    6. git push
